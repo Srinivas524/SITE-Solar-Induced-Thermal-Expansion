@@ -11,6 +11,6 @@ The full document is included in this repository. By publishing it publicly, thi
 - **Timestamp:** (GitHub automatically timestamps commits, proving your publication date).  
 
 ---
-⚡ **Inventor:** (Your Name or Alias)  
-🔗 **Repository Link:** [Your GitHub Repo URL]  
+⚡ **Inventor:** (Srinivas J)  
+🔗 **Repository Link:** (https://github.com/Srinivas524/SITE-Solar-Induced-Thermal-Expansion/blob/main/README.md) 
 🔄 **License:** Open for public research, but no commercial use without permission.  
